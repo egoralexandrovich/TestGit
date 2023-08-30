@@ -17,6 +17,11 @@ namespace TestGit
             Console.Write("Введите возраст: ");
             string age = Console.ReadLine();
             Console.WriteLine($"Здравствуй, {name} {last_name}. Твой возраст: {age}");
+            int new_age = int.Parse(age);
+            if (new_age >= 18)
+                Console.WriteLine("Вы уже совершеннолетний");
+            else
+                Console.WriteLine("Вы несовершеннолетний");
             Console.ReadLine();
         }
     }
