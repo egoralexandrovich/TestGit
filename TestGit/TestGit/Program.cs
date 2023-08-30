@@ -10,7 +10,10 @@ namespace TestGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Здравствуй, Егор");
+            Console.Write("Введите ваше имя: ");
+            string name = Console.ReadLine();
+            Console.WriteLine($"Здравствуй, {name}");
+            Console.ReadLine();
         }
     }
 }

@@ -1,0 +1,8 @@
+C:\Users\egort\OneDrive\Рабочий стол\Репозиторий\TestGit\TestGit\TestGit\bin\Debug\TestGit.exe.config
+C:\Users\egort\OneDrive\Рабочий стол\Репозиторий\TestGit\TestGit\TestGit\bin\Debug\TestGit.exe
+C:\Users\egort\OneDrive\Рабочий стол\Репозиторий\TestGit\TestGit\TestGit\bin\Debug\TestGit.pdb
+C:\Users\egort\OneDrive\Рабочий стол\Репозиторий\TestGit\TestGit\TestGit\obj\Debug\TestGit.csproj.AssemblyReference.cache
+C:\Users\egort\OneDrive\Рабочий стол\Репозиторий\TestGit\TestGit\TestGit\obj\Debug\TestGit.csproj.SuggestedBindingRedirects.cache
+C:\Users\egort\OneDrive\Рабочий стол\Репозиторий\TestGit\TestGit\TestGit\obj\Debug\TestGit.csproj.CoreCompileInputs.cache
+C:\Users\egort\OneDrive\Рабочий стол\Репозиторий\TestGit\TestGit\TestGit\obj\Debug\TestGit.exe
+C:\Users\egort\OneDrive\Рабочий стол\Репозиторий\TestGit\TestGit\TestGit\obj\Debug\TestGit.pdb
