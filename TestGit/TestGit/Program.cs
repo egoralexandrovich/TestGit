@@ -14,7 +14,9 @@ namespace TestGit
             string name = Console.ReadLine();
             Console.Write("Введите вашу фамилию: ");
             string last_name = Console.ReadLine();
-            Console.WriteLine($"Здравствуй, {name} {last_name}");
+            Console.Write("Введите возраст: ");
+            string age = Console.ReadLine();
+            Console.WriteLine($"Здравствуй, {name} {last_name}. Твой возраст: {age}");
             Console.ReadLine();
         }
     }
