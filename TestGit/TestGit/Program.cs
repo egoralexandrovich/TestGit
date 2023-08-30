@@ -12,7 +12,9 @@ namespace TestGit
         {
             Console.Write("Введите ваше имя: ");
             string name = Console.ReadLine();
-            Console.WriteLine($"Здравствуй, {name}");
+            Console.Write("Введите вашу фамилию: ");
+            string last_name = Console.ReadLine();
+            Console.WriteLine($"Здравствуй, {name} {last_name}");
             Console.ReadLine();
         }
     }
